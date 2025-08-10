@@ -153,16 +153,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [@yourusername]
-- Portfolio: [your-portfolio.com]
-
+- LinkedIn: www.linkedin.com/in/brijesh-kumar-ghadei
 ---
 
 <div align="center">
 
 **If this helped you, give it a ⭐ and share it with fellow developers!**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Brijesh
 
 </div>
